@@ -8,12 +8,12 @@ Create a folder in C:\ drive like "MyBatchFiles" and set the path of the folder 
 
 Getting to variables
 
-[Env variables]()
+[Env variables](https://github.com/ar-boop/batch-files/blob/main/Images/1.png)
 
 Select Path and click on Edit
 
-[Selecting Edit]()
+[Selecting Edit](https://github.com/ar-boop/batch-files/blob/main/Images/2.png)
 
 Click on New again and add the Path in the C Drive like this
 
-[Adding path]()
+[Adding path](https://github.com/ar-boop/batch-files/blob/main/Images/3.png)
